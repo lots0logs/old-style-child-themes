@@ -14,9 +14,9 @@ Creates a child theme with one click and lets you customise its options.
 
 The Child Theme Wizard lets you create a new child theme without the need for additional tools, right from within the WordPress admin interface. Once activated you can find it under Tools - Child Theme Wizard.
 
-Specify a parent theme, customise options such as title and description and click Create Child Theme. Upon success you will fild your new theme under Appearance - Themes.
+Specify a parent theme, customise options such as title and description and click Create Child Theme. Upon success you will find your new theme under Appearance - Themes.
 
-You have the option to include GPL License Terms if you wish. The Wizard will automatically create a thumbnail too. In future versions I may include an image uplaoder for this feature.
+You have the option to include GPL License Terms if you wish. The Wizard will automatically create a thumbnail too. In future versions I may include an image uploader for this feature.
 
 To find out more about Child Themes and why they are important please read https://codex.wordpress.org/Child_Themes
 
